@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Math Engine",
+  "description": "A high-performance calculator combining standard arithmetic with Gemini-powered natural language problem solving and step-by-step explanations.",
+  "requestFramePermissions": []
+}
